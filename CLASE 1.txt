@@ -1,0 +1,19 @@
+-- inicializar
+git init
+
+-- ver lo q tengo
+git status
+
+-- subir version
+git commit - m
+
+--para mirar el log
+git log
+
+
+git banch
+
+
+--realizar rollback en un cambio
+git reset --hard (y copiar el código del log al que quiero regresar)
+
